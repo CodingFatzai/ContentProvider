@@ -15,6 +15,7 @@ public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //GitTesting
         super.onCreate(savedInstanceState);
         setContentView(R.layout.mainactivity);
 
